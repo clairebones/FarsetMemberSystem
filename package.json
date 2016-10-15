@@ -1,0 +1,20 @@
+{
+  "name": "farset-member-system",
+  "version": "1.0.0",
+  "description": "Basic member management system for Farset Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairebones/farset-member-system.git"
+  },
+  "keywords": [
+    "member",
+    "management"
+  ],
+  "author": "Claire Wilgar",
+  "license": "MIT",
+  "homepage": "https://github.com/clairebones/farset-member-system#readme"
+}
